@@ -1,0 +1,56 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Holi High Camp
+description: "Bringing cold drinks, hot tunes, and paint cannons to the Playa"
+year: 2016
+address: 3:45 & Donatello
+schedule:
+  days: "Wed, Thu, Fri, Sat"
+  paint:
+    start: 1
+    end: 4
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+social:
+  facebook-official: https://facebook.com/holihighcamp
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
