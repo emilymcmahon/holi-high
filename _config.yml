@@ -12,7 +12,7 @@ schedule:
     start: 1
     end: 4
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://holihigh.emilymcmahon.com" # the base hostname & protocol for your site
 social:
   facebook-official: https://facebook.com/holihighcamp
   #email: /contact/
