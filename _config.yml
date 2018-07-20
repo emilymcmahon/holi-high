@@ -4,10 +4,10 @@
 # Site settings
 title: Holi High Camp
 description: "Bringing cold drinks, hot tunes, and paint cannons to the Playa"
-year: 2016
-address: 3:45 & Donatello
+year: 2018
+address: 2:45 & E
 schedule:
-  days: "Wed, Thu, Fri, Sat"
+  days: "Wed, Thu, Fri"
   paint:
     start: 1
     end: 4
