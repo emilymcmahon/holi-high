@@ -7,7 +7,7 @@ description: "Bringing cold drinks, hot tunes, and paint cannons to the Playa"
 year: 2022
 address: 3:30 & B
 schedule:
-  days: "Thu, Fri, Sat"
+  days: "Wed, Thu, Fri"
   paint:
     start: 1
     end: 4
