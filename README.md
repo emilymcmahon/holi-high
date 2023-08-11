@@ -8,7 +8,7 @@ Kristen Berman owns the CNAME holihighcamp.com. I have set it up so that CNAME p
 
 ## How to update information
 The only information we should be updating without a total revamp are [these settings](https://github.com/emilymcmahon/holi-high/blob/gh-pages/_config.yml#L5-L17). 
-1. Get a github account and have Emily, John, or another admin add you as a collaborator
+1. Get a github account and have Emily, John, or another admin add you as a collaborator. They'll need your username to do so.
 1. At the top right there's an "edit" button. Click it and make the changes you want.![Screen Shot 2023-08-11 at 1 29 30 PM](https://github.com/emilymcmahon/holi-high/assets/541913/5c555841-9e00-4f29-86ab-41686f6bfb3c)
 
 2. Commit the changes to the `gh-pages` branch.![Screen Shot 2023-08-11 at 1 27 29 PM](https://github.com/emilymcmahon/holi-high/assets/541913/b36b38d6-74ca-4aea-8ea2-f437c168df91)
