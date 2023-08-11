@@ -8,6 +8,7 @@ Kristen Berman owns the CNAME holihighcamp.com. I have set it up so that CNAME p
 
 ## How to update information
 The only information we should be updating without a total revamp are [these settings](https://github.com/emilymcmahon/holi-high/blob/gh-pages/_config.yml#L5-L17). 
+1. Get a github account and have Emily, John, or another admin add you as a collaborator
 1. At the top right there's an "edit" button. Click it and make the changes you want.
-2. Commit the changes and create a PR. Emily or John (or whoever is added as a repo admin) will approve the changes (note: this gating is required b/c the repo is public so we don't want anyone to be able to change this willy nilly). If you want to skip this step and merge straight into the gh-pages branch, we can make you an admin.
+2. Commit the changes to th `gh-pages` branch.
 4. Once the change is merged, the magic of github pages will deploy the changes and they should be viewable within 5 minutes. If not, your browser might be caching so try hitting with an incognito window. 
